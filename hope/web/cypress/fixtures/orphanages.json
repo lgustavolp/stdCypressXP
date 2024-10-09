@@ -1,0 +1,46 @@
+{
+  "create": {
+    "name": "Sunny Days Orphanage",
+    "description": "Sunny Days Orphanage offers a nurturing and caring environment for children in need. With dedicated staff and a focus on personal growth, we provide opportunities for education, recreation, and emotional support to help every child thrive.",
+    "opening_hours": "Monday to Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 1:00 PM",
+    "open_on_weekends": "false",
+    "position": {
+      "latitude": -23.6227,
+      "longitude": -46.6699
+    },
+    "image": "kids-playground-5.png"
+  },
+  "duplicate": {
+    "name": "Hope Haven",
+    "description": "At Hope Haven, we are committed to offering hope and support to orphaned and vulnerable children. Our mission is to create a safe, family-like atmosphere where children can heal, grow, and build the confidence they need to face the world with optimism.",
+    "opening_hours": "Monday to Friday: 7:30 AM - 5:30 PM, Sunday: 10:00 AM - 2:00 PM",
+    "open_on_weekends": "true",
+    "position": {
+      "latitude": -23.59464210120668,
+      "longitude": -46.68786341811335
+    },
+    "image": "kids-playground-10.png"
+  },
+  "map": {
+    "name": "Little Hearts Orphanage",
+    "description": "Little Hearts Orphanage is dedicated to providing a loving and supportive home for children who have experienced loss and hardship. We focus on emotional healing and personal development, ensuring that each child feels safe, valued, and prepared for a brighter future.",
+    "opening_hours": "Monday to Friday: 8:00 AM - 7:00 PM, Saturday: 8:30 AM - 12:30 PM",
+    "open_on_weekends": "false",
+    "position": {
+      "latitude": -23.59876694385057,
+      "longitude": -46.67956136991813
+    },
+    "image": "kids-playground-8.png"
+  },
+  "required": {
+    "name": "Bright Future Orphanage",
+    "description": "Bright Future Orphanage is committed to helping children build a bright and successful future. We offer a wide range of educational and extracurricular activities that promote learning, creativity, and social development, all within a safe and supportive environment.",
+    "opening_hours": "Monday to Friday: 9:00 AM - 5:00 PM, Saturday and Sunday: Closed",
+    "open_on_weekends": "false",
+    "position": {
+      "latitude": -23.59876694385057,
+      "longitude": -46.67956136991813
+    },
+    "image": "kids-playground-9.png"
+  }
+}
