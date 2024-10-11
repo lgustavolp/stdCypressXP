@@ -12,5 +12,5 @@ Sample Project Study (Hope) for creating Functional Tests with Cypress
 - Custom Commands
 - Mock (Intercept)
 - Mongo DB
-- Aluure Report
+- Allure Report
 - Faker
